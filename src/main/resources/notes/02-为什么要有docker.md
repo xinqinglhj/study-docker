@@ -20,4 +20,4 @@
 ### 构建、分享、运行
 docker官网对于docker的定义
 快速的构建、分享、和运行。对于docker的学习也是围绕这3点进行的。
-![](./images/docker-01-01.png)
+![](./images/docker-02-01.png)
