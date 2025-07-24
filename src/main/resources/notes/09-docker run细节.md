@@ -24,4 +24,8 @@
 ### 使用ehco命令，修改nginx的首页
 ![](./images/docker-09-02.png)
 
+> 给 index.html 写入内容
+>
+> echo "<h1> hello, docker. </h1>" > index.html
+
 ### exit 退出容器
